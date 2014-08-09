@@ -1,7 +1,7 @@
 {
   "name": "lifted-dark-ui",
   "theme": "ui",
-  "version": "0.30.0",
+  "version": "0.31.0",
   "description": "Default Lifted Studios dark theme for interface components",
   "license": "MIT",
   "repository": "https://github.com/lee-dohm/lifted-dark-ui",
